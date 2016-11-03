@@ -1,0 +1,26 @@
+body{
+	width:700px;
+	margin:0 auto;
+	font-family:  "Times New Roman", Times, serif;
+}
+
+header, p.center{
+	text-align: center;
+}
+.right {
+	text-align: right;
+}
+figure {
+	margin: 10px;
+}
+
+#mouse {
+	text-align: center;
+}
+
+#turbine {
+margin-left: 0;
+float:left;
+}
+
+ 
